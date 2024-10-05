@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: aquamarine;
+}
+
+h2{
+    background-color: rgb(175, 115, 47);
+    border-radius: 10px 10px;
+    font-size: 35px;
+}
+img{
+    height: 500px;
+    width: 600px;
+    border-radius: 30px 30px;
+}
+ol{
+    background-color: azure;
+    border-radius: 5px 5px ;
+    color: rgb(12, 56, 58);
+}
+p{
+    font-size: larger;
+    color: blueviolet;
+}
